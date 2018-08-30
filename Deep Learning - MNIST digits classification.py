@@ -1,4 +1,4 @@
-#Basic implementation of deep learning using tensorflow and keras
+#Modern implementation of deep learning using Tensorflow and Keras
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
